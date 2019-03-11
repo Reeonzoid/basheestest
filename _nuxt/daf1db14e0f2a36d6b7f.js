@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{136:function(n,o,i){"use strict";i.r(o);var t=i(14),e=Object(t.a)({},void 0,void 0,!1,null,null,null);e.options.__file="twitch.vue",o.default=e.exports}}]);
